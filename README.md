@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Harnoor Kaur</h1>
-<h3 align="center">Full-Stack Developer | Web & System Engineering | Security-First Coder</h3>
+<h3 align="center">Full-Stack Developer | Web & System Engineering </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harnoor497&label=Profile%20views&color=0e75b6&style=flat" alt="harnoor497" />

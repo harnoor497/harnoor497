@@ -55,17 +55,6 @@
 
 ---
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harnoor497&show_icons=true&theme=tokyonight" alt="Harnoor's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harnoor497&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Let's Connect
 

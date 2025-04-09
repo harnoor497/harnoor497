@@ -21,8 +21,6 @@
   Supported critical banking systems for a UK-based financial client, specializing in production support using tools like **Dynatrace**, **ServiceNow**, and **Shell scripting**.
 ---
 
----
-
 ### 🛠️ Tech Stack
 
 #### 👩‍💻 Languages  

@@ -9,9 +9,8 @@
 
 ### 👩‍💻 About Me
 
-- 🔐 Currently building a **secure file-sharing web application** with MFA, AES-256, RBAC, and expiring links.
 - 🧰 Background in **full-stack development**, **retail tech**, and **production support systems**.
-- 🌱 Learning **cloud security**, **CI/CD**, and **French** for the TCF exam.
+- 🌱 Learning **cloud security**, **CI/CD**.
 - 📍 Based in Vancouver, BC | Open to remote/hybrid opportunities.
 
 ---

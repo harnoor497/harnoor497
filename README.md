@@ -11,7 +11,7 @@
 
 - 🧰 Background in **full-stack development**, **financial tech**, and **production support systems**.
 - 🌱 Learning **cloud security**, **CI/CD**.
-- 📍 Based in Vancouver, BC | Open to remote/hybrid opportunities.
+- 📍 Based in Surrey, BC | Open to remote/hybrid/on-site opportunities.
 
 ---
 

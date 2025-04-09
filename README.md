@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🧰 Background in **full-stack development**, **retail tech**, and **production support systems**.
+- 🧰 Background in **full-stack development**, **financial tech**, and **production support systems**.
 - 🌱 Learning **cloud security**, **CI/CD**.
 - 📍 Based in Vancouver, BC | Open to remote/hybrid opportunities.
 
@@ -35,13 +35,6 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ---
-
-### 🚀 Featured Project
-
-#### 🔐 SecureShare
-A secure file-sharing platform with expiring links, multi-factor authentication, AES-256 encryption, and RBAC.  
-> **Stack:** React + Redux · Django · SQLite · Security-first architecture  
-> **Status:** MVP in progress
 
 ---
 

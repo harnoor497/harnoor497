@@ -15,24 +15,43 @@
 
 ---
 
+### 💼 Experience
+
+- 💻 **System Engineer** @ Tata Consultancy Services  
+  Supported critical banking systems for a UK-based financial client, specializing in production support using tools like **Dynatrace**, **ServiceNow**, and **Shell scripting**.
+---
+
+---
+
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**  
+#### 👩‍💻 Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+#### ⚙️ Frameworks & Libraries  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
 
-**Tools & Platforms**  
+#### 🧪 Tools & Platforms  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Zebra Devices](https://img.shields.io/badge/-Zebra_TC5X-000000?style=flat&logo=data:image/svg+xml;base64,...)
+
+#### 🔒 DevOps & Monitoring  
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-00C58E?style=flat&logo=servicenow&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/-Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 
 ---
 
